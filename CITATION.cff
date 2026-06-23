@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  An Operational Model for Unmanned Aerial Vehicle-assisted
+  Device-to-Device Relaying
+message: Simulation Code
+type: software
+authors:
+  - given-names: Daniel Joseph
+    family-names: Alapat
+    email: danielalapat@gmail.com
+    affiliation: TU Delft
+    orcid: 'https://orcid.org/0000-0001-6260-895X'
+license: MIT
+version: V_01
+date-released: '2026-07-10'
